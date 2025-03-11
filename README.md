@@ -1,27 +1,49 @@
-# 🔐 Cybersecurity Projects by Cyrus Tabakhi  
+# Hello, I'm Cyrus Tabakhi  
+<a href="linkedin.com/in/cyrus-tabakhi-7893112b0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
-Welcome to my cybersecurity portfolio! This repository showcases my **digital forensics, penetration testing, and system security projects**, including **Active Directory security simulations and Unix log analysis**.
+I am a cybersecurity enthusiast with a strong interest in **digital forensics, threat detection, and security operations**. My projects focus on **log analysis, Active Directory security, and automation in cybersecurity**.
 
----
+## Objective  
+I am passionate about **cybersecurity, digital forensics, and system security**. My goal is to expand my expertise in **Security Operations (SOC), threat detection, and incident response**, and contribute to a **secure digital environment**.
 
-## 📌 Featured Projects  
+## Skills  
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Unix Log Analysis & Threat Hunting           | <a href="#brutus-unix-log-analysis">Brutus (HackTheBox)</a> |
+| Active Directory Security & Hardening        | <a href="#active-directory-security-simulation">Active Directory Security</a> |
+| Digital Forensics & Incident Response        | <a href="#brutus-unix-log-analysis">Brutus (HackTheBox)</a> |
+| SIEM & Log Monitoring                        | Active Directory Security |
+| Scripting & Automation for Threat Detection  | Active Directory Security |
+
+## Tools  
+
+### Network  
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>  
+
+### Endpoint  
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>  
+
+### SIEM  
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>  
+
+## Certifications  
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_IT_Support-007ACC?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>  
+
+## Projects  
 
 ### 🕵️ Brutus – Unix Log Analysis (HackTheBox Sherlocks)  
-**Description:**  
-This project involves **forensic analysis of Unix authentication logs (`auth.log` & `wtmp`)** to investigate a **brute-force attack on an SSH server**. The attacker gained access, escalated privileges, and maintained persistence.  
-
-**🔧 Tools & Technologies Used:**  
-- 🐧 **Linux (Ubuntu/Kali)** – Log analysis & CLI-based forensics  
-- 📂 **auth.log & wtmp** – Tracking authentication & session activity  
-- 🛡️ **MITRE ATT&CK Framework** – Identifying persistence techniques  
-
-**🔍 Key Findings:**  
-✅ **Attacker’s IP Address:** `65.2.161.68`  
-✅ **Compromised Account:** `root`  
-✅ **First Login Timestamp:** `2024-03-06 06:32:45`  
-✅ **SSH Session ID:** `37`  
-✅ **Persistence Strategy:** **Created a new privileged user (`cyberjunkie`)**  
-✅ **MITRE ATT&CK Sub-technique:** **T1136.001 (Create Account – Local Account)**  
-✅ **Command Executed by Attacker:**  
-   ```bash
-  
+### 🧪 Active Directory (Home Lab) 
