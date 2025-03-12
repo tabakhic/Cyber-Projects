@@ -1,7 +1,7 @@
 # Hello, I'm Cyrus Tabakhi  
 <a href="linkedin.com/in/cyrus-tabakhi-7893112b0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
-I am a cybersecurity enthusiast with a strong interest in **digital forensics, threat detection, and security operations**. My projects focus on **log analysis, Active Directory security, and automation in cybersecurity**.
+I am a cybersecurity enthusiast with a strong interest in **digital forensics, threat detection, and security operations**. My projects focus on things like **log analysis, Active Directory security, and automation in cybersecurity**.
 
 ## Objective  
 I am passionate about **cybersecurity, digital forensics, and system security**. My goal is to expand my expertise in **Security Operations (SOC), threat detection, and incident response**, and contribute to a **secure digital environment**.
@@ -22,7 +22,6 @@ I am passionate about **cybersecurity, digital forensics, and system security**.
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>  
 
 ### Endpoint  
