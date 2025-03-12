@@ -10,9 +10,9 @@ I am passionate about **cybersecurity, digital forensics, and system security**.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Unix Log Analysis & Threat Hunting           | <a href="#brutus-unix-log-analysis">Brutus (HackTheBox)</a> |
+| Unix Log Analysis & Threat Hunting           | <a href="https://github.com/tabakhic/Brutis-Lab/blob/main/README.md">Brutus (HackTheBox)</a> |
 | Active Directory Security & Hardening        | <a href="https://github.com/tabakhic/Active-Directory-Lab/tree/main">Active Directory Security</a> |
-| Digital Forensics & Incident Response        | <a href="#brutus-unix-log-analysis">Brutus (HackTheBox)</a> |
+| Digital Forensics & Incident Response        | <a href="https://github.com/tabakhic/Brutis-Lab/blob/main/README.md">Brutus (HackTheBox)</a> |
 | SIEM & Log Monitoring                        | Active Directory Security |
 | Scripting & Automation for Threat Detection  | Active Directory Security |
 
@@ -45,5 +45,5 @@ I am passionate about **cybersecurity, digital forensics, and system security**.
 
 ## Projects  
 
-### 🕵️ Brutus – Unix Log Analysis (HackTheBox Sherlocks)  
+### <a href="https://github.com/tabakhic/Brutis-Lab/blob/main/README.md">🕵️ Brutus – Unix Log Analysis (HackTheBox Sherlocks)  </a>
 ### <a href="https://github.com/tabakhic/Active-Directory-Lab/tree/main">🧪  Active Directory (Home Lab)  </a>
