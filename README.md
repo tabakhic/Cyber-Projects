@@ -52,8 +52,10 @@ I am passionate about **cybersecurity, digital forensics, and system security**.
 ## Certifications  
 
 <div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_IT_Support-007ACC?&style=for-the-badge&logo=Google&logoColor=white" />
+    <p>Soon To Have : </p>
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Soon To Have"/>
+  
 </div>  
 
 
