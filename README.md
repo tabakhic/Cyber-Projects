@@ -1,4 +1,4 @@
-# 🕵️ Cyrus Tabakhi - Cybersecurity Projects  
+# Cyrus Tabakhi - Cybersecurity Projects  
 <a href="https://linkedin.com/in/cyrus-tabakhi-7893112b0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
 I am a **cybersecurity enthusiast** with a strong interest in **digital forensics, threat detection, and security operations**. My projects focus on areas like **log analysis, Active Directory security, and automation in cybersecurity**.
