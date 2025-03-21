@@ -21,6 +21,9 @@ I am passionate about **cybersecurity, digital forensics, and system security**.
 ### [🕵️ Brutus – Unix Log Analysis (HackTheBox Sherlocks)](https://github.com/tabakhic/Brutis-Lab/blob/main/README.md)  
 - **Description**: An in-depth exploration of Unix logs (auth.log, wtmp) to track an attacker’s brute-force attack. This project helped develop skills in log analysis, attack tracking, and digital forensics.
 
+### [🛠️ Network Connectivity Restoration Challenge](https://github.com/tabakhic/Network-Connectivity-Restoration-Challenge.git)  
+- **Description**: A hands-on networking troubleshooting challenge using **GNS3 and Linux** to restore DHCP and DNS connectivity. This project focuses on **resolving network misconfigurations**, analyzing routing issues, and verifying proper **host-to-host communication**.
+
 ## Skills  
 
 | **Skill**                                    | **Associated Project**                                                             |
