@@ -12,6 +12,9 @@ I am passionate about **cybersecurity, digital forensics, and system security**.
 ### [🧪 Active Directory (Home Lab)](https://github.com/tabakhic/Active-Directory-Lab/tree/main)  
 - **Description**: A home lab project that focuses on securing and hardening Active Directory environments. This lab explores best practices in configuring AD security and automating threat detection.
 
+### [🛠️ LogJammer – Log Forging Attack Simulator](https://github.com/tabakhic/LogJammer.git)  
+- **Description**: This project focuses on generating and analyzing forged logs, helping to improve detection mechanisms and understand the potential risks of log tampering with **Splunk** as it was utilized as a SIEM tool to monitor and analyze the forged logs, providing insights into how such attacks can be detected and mitigated in a real-world scenario.
+
 ### [🛡️ Endpoint Analysis – Threat Hunting with SQLite](https://github.com/tabakhic/Endpoint-analysis.git)  
 - **Description**: A forensic analysis project focused on **endpoint security** and **malware detection** using **SQLite database investigations**. This project highlights **threat actor persistence techniques** and deep-dive analysis of system logs.
 
@@ -24,6 +27,7 @@ I am passionate about **cybersecurity, digital forensics, and system security**.
 ### [🛠️ Network Connectivity Restoration Challenge](https://github.com/tabakhic/Network-Connectivity-Restoration-Challenge.git)  
 - **Description**: A hands-on networking troubleshooting challenge using **GNS3 and Linux** to restore DHCP and DNS connectivity. This project focuses on **resolving network misconfigurations**, analyzing routing issues, and verifying proper **host-to-host communication**.
 
+
 ## Skills  
 
 | **Skill**                                    | **Associated Project**                                                             |
@@ -34,6 +38,7 @@ I am passionate about **cybersecurity, digital forensics, and system security**.
 | Digital Forensics & Incident Response        | [Brutus (HackTheBox)](https://github.com/tabakhic/Brutis-Lab/blob/main/README.md)   |
 | Network Analysis & Traffic Monitoring        | [Network Analysis – Malware Compromise](https://github.com/tabakhic/Network-Analysis-Lab/tree/main) |
 | Scripting & Automation for Threat Detection  | [Active Directory Security](https://github.com/tabakhic/Active-Directory-Lab/tree/main) |
+| Log Forging Attack Simulation & Detection    | [LogJammer](https://github.com/tabakhic/LogJammer.git) |
 
 ## Tools  
 
